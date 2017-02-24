@@ -1,0 +1,4 @@
+[ResponseResult]
+ResultCode=-1
+[Application]
+version=7.4.0.120
