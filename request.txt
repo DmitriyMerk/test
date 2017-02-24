@@ -1,0 +1,10 @@
+GET /Intro/Intro07.aspx?name=Dmitriy&lang=C%2B%2B&ok=ok HTTP/1.1
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Host: localhost:53564
+Referer: http://localhost:53564/Intro/Intro02.aspx?
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Upgrade-Insecure-Requests: 1
+
